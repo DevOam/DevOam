@@ -2,7 +2,7 @@
 <img align="center" alt="coding" width="100%" src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif"/>
 
 <h1 align="center">Hi 👋, I'm DevOam</h1>
-<h3 align="center">"Hello, I'm a passionate and experienced mobile developer with a strong background in creating applications for Android and iOS. I have a good understanding of the latest technologies and best practices in mobile development, which allows me to create elegant and high-performance applications for my clients. My expertise includes developing native, hybrid, and cross-platform applications, as well as creating web services and databases for mobile applications."</h3>
+<h3 align="center" color="#3efe04">"Hello, I'm a passionate and experienced mobile developer with a strong background in creating applications for Android and iOS. I have a good understanding of the latest technologies and best practices in mobile development, which allows me to create elegant and high-performance applications for my clients. My expertise includes developing native, hybrid, and cross-platform applications, as well as creating web services and databases for mobile applications."</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devoam&label=Profile%20views&color=0e75b6&style=flat" alt="devoam" /> </p>
 
