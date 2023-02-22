@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**DevOam/DevOam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Compétences en développement mobile
+👨‍💻 Expert en :
+<span data-aos="fade-in">Kotlin</span>
+<span data-aos="fade-in" data-aos-delay="100">Java</span>
+<span data-aos="fade-in" data-aos-delay="200">Swift</span>
+<span data-aos="fade-in" data-aos-delay="300">SQLite</span>
+<span data-aos="fade-in" data-aos-delay="400">Firebase</span>
+<span data-aos="fade-in" data-aos-delay="500">Git</span>
+📚 Connaissance en :
+<span data-aos="fade-in">HTML</span>
+<span data-aos="fade-in" data-aos-delay="100">CSS</span>
+<span data-aos="fade-in" data-aos-delay="200">PHP</span>
+<span data-aos="fade-in" data-aos-delay="300">MySQL</span>
+<span data-aos="fade-in" data-aos-delay="400">JavaScript</span>
+<span data-aos="fade-in" data-aos-delay="500">Python</span>
