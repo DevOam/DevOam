@@ -44,7 +44,8 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BEPb&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph)
+[![DevOam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DevOam&theme=github-compact)](https://github.com/DevOam/github-readme-activity-graph)
+
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
@@ -66,7 +67,7 @@
 <!--  2d history skills -->
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=DevOam" width="auto"></img>
 
-**📫 Comment me contacter :**
+**📫 How to Reach me:**
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-reda-lakouas-3a8413264" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
 <a href="mailto:redalakouas03@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
